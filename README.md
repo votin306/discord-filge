@@ -15,6 +15,7 @@
 Находим пункт buildpack и вводим такие ссылки 
 1) https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 2) https://github.com/xrisk/heroku-opus.git
+
 По умолчанию там стоит heroku/python
 ### 4 этап! ###
 ВКЛЮЧАЕМ БОТА)))))
