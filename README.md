@@ -5,3 +5,6 @@
 Так что я сейчас расскажу что надо сделать что-бы работало аудио
 ### 1 этап! ###
 ![фотка](https://github.com/votin306/discord-filge/blob/main/picture/auth.png "Вход")
+1) Мы дожны войти на heroku и создать там проект
+2) Полная инструкция есть тут --> https://vk.com/@-197363571-kak-zahostit-bota-dlya-discord-python
+### 2 этап! ###
